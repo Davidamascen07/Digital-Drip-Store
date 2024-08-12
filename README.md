@@ -1,4 +1,5 @@
 Digital Store
+
 Bem-vindo ao Digital Store! Este projeto é uma aplicação React que simula uma loja online, com diversas funcionalidades visuais e integração com APIs para exibir imagens e informações.
 
 🛠️ Tecnologias Utilizadas
