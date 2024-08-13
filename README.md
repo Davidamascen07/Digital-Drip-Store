@@ -60,6 +60,19 @@ Este projeto foi desenvolvido por:
 David Damasceno da Frota - davidddf.frota@gmail.com
 🔗 Links Úteis
 
+https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30
+
+1. *Documentação Oficial do React:*
+   - [React Docs](https://reactjs.org/docs/getting-started.html)
+     
+2. *Guia sobre o Uso do Figma:*
+   - [Figma Tutorial](https://www.figma.com/resources/learn-design/)
+     
+3. *Introdução ao Versionamento e GitHub:*
+   - [GitHub Guides](https://guides.github.com/activities/hello-world/)
+     
+   - [Pro Git Book](https://git-scm.com/book/en/v2)
+
 
 📧 Contato
 Caso tenha alguma dúvida ou sugestão, entre em contato através do e-mail: davidddf.frota@gmail.com.
