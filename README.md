@@ -40,6 +40,7 @@ git clone https://github.com/Davidamascen07/Digital-Drip-Store.git
 Instale as dependências:
 
 npm install
+
 💻 Como Rodar
 
 Para iniciar o projeto em ambiente de desenvolvimento, execute o seguinte comando:
@@ -58,9 +59,10 @@ https://digital-drip-store-srbd.vercel.app/
 Este projeto foi desenvolvido por:
 
 David Damasceno da Frota - davidddf.frota@gmail.com
+
 🔗 Links Úteis
 
-https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30
+[Figma Projeto](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30)
 
 1. *Documentação Oficial do React:*
    - [React Docs](https://reactjs.org/docs/getting-started.html)
