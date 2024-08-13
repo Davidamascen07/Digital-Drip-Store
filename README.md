@@ -49,7 +49,9 @@ npm run start
 A aplicação estará acessível em http://localhost:5173.
 
 🌐 Deploy
-O deploy da aplicação foi realizado GitHub Pages. A aplicação pode ser acessada através deste link.
+O deploy da aplicação foi realizado no Vercel GitHub Pages. A aplicação pode ser acessada através deste link.
+
+https://digital-drip-store-srbd.vercel.app/
 
 👥 Desenvolvimento
 
